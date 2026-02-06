@@ -16,9 +16,7 @@ Pipelines de datos, APIs y bases de datos.
 
 Un repositorio dedicado a mi homelab, donde documento configuraciones reales y aprendizajes.
 
-## 🚀 Mi objetivo es seguir creciendo profesionalmente en el ámbito de IA, Data Science o Data Engineering, aportando soluciones prácticas y bien pensadas.
-
-Si algo de lo que ves aquí te resulta interesante, siéntete libre de explorar los repositorios o contactarme.
+#### 🚀 Mi objetivo es seguir creciendo profesionalmente en el ámbito de IA, Data Science o Data Engineering, aportando soluciones prácticas y bien pensadas.
 
 ## 📂 Repositorios destacados
 - 🔹 Trabajo_BIDA – RAG orientado hacia el deporte(NBA).
@@ -28,4 +26,5 @@ Si algo de lo que ves aquí te resulta interesante, siéntete libre de explorar 
 - 🔹 Proyecto_tfm_2025 - Analisis de Datos, machine learning, modelado de datos. Proyecto enfocado a un proyecto y caso real muy completo y extenso.
 - 🔹 Trabajo_BIDA_Raul_Mateo - Proyecto conjunto en el que comparamos el rendimiento y el comportamiento entre Cassandra y MySQL.
 
+*Si algo de lo que ves aquí te resulta interesante, siéntete libre de explorar los repositorios o contactarme.*
 
