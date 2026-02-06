@@ -8,13 +8,10 @@ Además, mantengo un homelab activo, donde experimento con Docker, servicios aut
 
 ## 🔍 Qué encontrarás aquí:
 
-Proyectos de Data Analysis y Machine Learning con Python.
-
-Experimentos con IA, LLMs y NLP.
-
-Pipelines de datos, APIs y bases de datos.
-
-Un repositorio dedicado a mi homelab, donde documento configuraciones reales y aprendizajes.
+-  Proyectos de Data Analysis y Machine Learning con Python.
+-  Experimentos con IA, LLMs y NLP.
+-   Pipelines de datos, APIs y bases de datos.
+-  Un repositorio dedicado a mi homelab, donde documento configuraciones reales y aprendizajes.
 
 #### 🚀 Mi objetivo es seguir creciendo profesionalmente en el ámbito de IA, Data Science o Data Engineering, aportando soluciones prácticas y bien pensadas.
 
