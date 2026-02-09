@@ -20,7 +20,7 @@ Además, mantengo un homelab activo, donde experimento con Docker, servicios aut
 - 🔹 Trabajo_SBD – Analisis de datos y despliegue de contenedores, uso de APIs y tecnica CI/CD.
 - 🔹 polarNBA – Proyecto en proceso, de analisis de datos NBA, probando polars.
 - 🔹 Homelab – infraestructura, Docker y servicios. Explico como configure mis propios servidores locales.
-- 🔹 Proyecto_tfm_2025 - Analisis de Datos, machine learning, modelado de datos. Proyecto enfocado a un proyecto y caso real muy completo y extenso.
+- 🔹 Proyecto_tfm_2025 - Analisis de Datos, machine learning, modelado de datos. Proyecto enfocado a un proyecto y caso real.
 - 🔹 Trabajo_BIDA_Raul_Mateo - Proyecto conjunto en el que comparamos el rendimiento y el comportamiento entre Cassandra y MySQL.
 
 *Si algo de lo que ves aquí te resulta interesante, siéntete libre de explorar los repositorios o contactarme.*
